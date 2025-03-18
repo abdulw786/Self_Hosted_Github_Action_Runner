@@ -3,8 +3,11 @@ This script allows you to rename GitHub repositories using the GitHub API. It ta
 
 ## 🚀 Features
 ✅ Rename multiple repositories automatically
+
 ✅ Prompt user for custom new repository names
+
 ✅ Skip renaming if no input is provided
+
 ✅ Handles errors and provides clear feedback
 
 ## 📥 Requirements
@@ -12,7 +15,7 @@ Python (Version 3.6+)
 GitHub Personal Access Token with repo scope
 ## 🛠️ Setup
 ###1. Clone the Repository
-git clone https://github.com/your-username/repo-renamer.git
+git clone https://github.com/abdulw786/Self_Hosted_Github_Action_Runner.git
 cd repo-renamer
 
 ### 2. Install Dependencies
